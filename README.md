@@ -14,11 +14,11 @@ Para iniciar la aplicacion deberas abrir dos terminales para manejar mejor la ap
 dentro de la primera en el terminal general del proyecto iniciarás el servidor junto con la base de datos 
 con el comando 
 
-# node src/index.js
+### node src/index.js
 
 Para iniciar el frontend podrás deberas ingresar a su carpeta y una vez dentro de esta deberas ingresar el siguiente comando
 
-# npm start
+### npm start
 
 Gracias por visualizar el proyecto cualquier cambio sugerido es bienvenido 
 
